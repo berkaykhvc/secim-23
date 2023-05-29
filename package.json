@@ -1,7 +1,6 @@
 {
   "name": "secim-2023",
   "version": "0.1.0",
-  "homepage": "https://penthall.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",

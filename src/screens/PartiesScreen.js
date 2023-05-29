@@ -1,6 +1,6 @@
 import React from 'react'
 import Parties from './Parties'
-import MapMv from './mapMv'
+import MapMv from './MapMv'
 import Nav from '../Nav'
 
 function PartiesScreen() {

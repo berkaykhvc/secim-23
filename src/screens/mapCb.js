@@ -1,9 +1,9 @@
 import React from 'react'
 import './map.css'
 
-function Map() {
+function MapCb() {
   return (
-    <svg className='-mt-28 flex flex-row scale-[0.345] ml-[-19.1rem] sm:scale-[0.65] sm:ml-[-6.5rem] sm:-mt-7 xl:mx-auto xl:mt-7 xl:scale-[0.85] lg:scale-[1.2] lg:mt-28' baseprofile="tiny" fill="#7c7c7c" height="424" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3" version="1.2" viewbox="0 0 1000 424" width="1000" xmlns="http://www.w3.org/2000/svg">
+    <svg className='-mt-20 flex flex-row scale-[0.345] ml-[-19.1rem] sm:scale-[0.65] sm:ml-[-6.5rem] sm:-mt-7 xl:mx-auto xl:mt-7 xl:scale-[0.85] lg:scale-[1.2] lg:mt-28' baseprofile="tiny" fill="#7c7c7c" height="424" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3" version="1.2" viewbox="0 0 1000 424" width="1000" xmlns="http://www.w3.org/2000/svg">
  <g>
  </g>
  <path fill="#c42626" className='hover:fill-red-800' d="M79.7 308.9l-0.2 0.5-1-2.1 0.5-0.2 0.2 0.3-0.2 0.4 0.7 1.1z m74.9 6.2l-6.9-0.9-3.8-2.1-3.2-2.7-3.8-0.8-2.8 1.9-1.9 3.7-2 1.6-6.3 0.5-3.7-0.2-2.2-1.1-2.4 0-2.4 0.6-2.3-0.4-3.7-2.5-4.2-0.6-2-0.8-1.9-1.2-1.7 0.1-1.6 0.9-0.7 1.1-2.8 6.1-0.6 1.1-0.9 0-0.8 0.5-0.5 0.8-0.2 0.9-0.6 0.6-1.2-0.1 0 0.5 0.7 0.5-0.3 0.3-3.1 0.2-0.7 0.3-0.6 0.5-0.7-0.8-0.4 0-0.3 0.3-0.2-0.7-0.6 0.1-0.7-0.3 0.5-0.6 0.4-0.6 0.1-0.7-0.2-0.8 1.1-0.4 0-0.5-0.5-1.2 0.3-3-0.9 0.3-0.3-0.4-0.4 0-0.7 0.8 0.2-1.1 0.3-1 0.1-1-0.3-1 0.2-0.4-0.4-0.7 0.2-0.7 0.8 0.5 0.5-1 0.1-1.5-0.1-0.7-0.8-0.3-3-2-4.6-1.2-1.9-1.1 0.5-1.3 0.9-0.3 3.5 0.3 1.1-0.2 4.5-1.6 0.7-0.5 1.2-1.5 0.4-1 0.2-1.5 0-1.5 0-0.8-0.9-1.2-0.3-0.7 0.1-1.3 0.8-0.8 0.3-0.8 3.6 0 4.2-1.7 6.3-4.2 2.7-0.4 12.8 1 12.1-3.3 10.1-0.1 1.8-0.7 1.8-1.1 2.1-0.6 2.1-0.3 8.2-3 7.1 0.2 0.6 1.5 0.7 1.4 2.9 2 0.6 2-0.1 2.2 0.8 4-0.4 1.4-1.2 0.9-0.1 1.7 1.1 1.5 0.8 1.7 1.1 1.7 3.4 0.7 0.5 1.5-0.2 1.8-1.6 1.2-2 0.1-2.4 3.4-2.8 2.7-4-0.5-3.7 1-1 2.5 0.6 2.5 1.1 0.6 0.4 0.9 0.3 0.9z" id="TUR2229" name="Aydin">
@@ -178,4 +178,4 @@ function Map() {
   )
 }
 
-export default Map
+export default MapCb
