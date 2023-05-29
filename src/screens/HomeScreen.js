@@ -14,7 +14,7 @@ function HomeScreen() {
         <MapCb />
         <SecondRound />
         <MapSr />
-        <hr className='border-0 absolute w-full h-3 bg-red-950'/>
+        <hr className='-mt-20 border-0 absolute w-full h-3 bg-red-950 sm:-mt-8 md:mt-16'/>
     </div>
   )
 }

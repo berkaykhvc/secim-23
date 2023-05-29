@@ -9,6 +9,7 @@ function PartiesScreen() {
       <Nav />
       <Parties />
       <MapMv />
+      <hr className='-mt-20 border-0 absolute w-full h-3 bg-red-950 sm:-mt-8 md:mt-16'/>
     </div>
   )
 }
